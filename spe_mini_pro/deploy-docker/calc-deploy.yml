@@ -6,5 +6,5 @@
   tasks:
     - name: Pull image
       docker_image:
-        name: shahharsh8/speminiproject
+        name: amulya365/cal_mini_pro
         source: pull
