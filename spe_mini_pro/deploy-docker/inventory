@@ -1,4 +1,4 @@
 
 
 [ubuntu]
-172.16.129.220 ansible_user=Amulaya
+172.16.144.176  ansible_user=Amulaya
